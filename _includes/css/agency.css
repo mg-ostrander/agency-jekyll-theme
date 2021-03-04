@@ -266,12 +266,12 @@ fieldset[disabled] .btn-xl.active {
 }
 
 header {
-    text-align: center;
+    text-align: left;
     color: #fff;
     z-index: -2;
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/20140805_134016_finsel.jpg');
-    background-position: center center;
+    background-position: left center;
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -280,7 +280,7 @@ header {
 }
 
 header::after {
-    color: #222;
+    background-color: #222;
     opacity: 0.4;
     z-index: -1;
     background-position: center center;
