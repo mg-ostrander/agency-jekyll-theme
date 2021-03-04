@@ -270,7 +270,7 @@ header {
     color: #fff;
     z-index: -2;
     background-attachment: scroll;
-    background-image: linear-gradient(34, 34, 34, 0.45), url('{{ site.baseurl }}/img/20140805_134016_finsel.jpg');
+    background: linear-gradient(rgba(34, 34, 34, 0.45)), url('{{ site.baseurl }}/img/20140805_134016_finsel.jpg');
     background-position: left center;
     background-repeat: none;
     -webkit-background-size: cover;
