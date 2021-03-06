@@ -269,7 +269,7 @@ header {
     text-align: left;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/20140805_134016_finsel_overlay.jpg');
+    background-image: url('{{ site.baseurl }}/img/20140805_134016_finsel_overlay_dark.jpg');
     background-position: left center;
     background-repeat: none;
     -webkit-background-size: cover;
